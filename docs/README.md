@@ -22,7 +22,7 @@
   - GitHub Actions
   - Bitrise
   - fastlane
-- Bolt framework を用いた業務効率化経験
+- Bolt framework を用いた業務効率化の経験
 
 ---
 
