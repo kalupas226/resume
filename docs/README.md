@@ -66,7 +66,7 @@
   - Swift を中心とした記事を投稿している。総投稿数は8
 - [Zenn](https://zenn.dev/kalupas226)
   - Swift を中心として記事を投稿している。総投稿数は17
-- [Sansan Builders Blog]()
+- [Sansan Builders Blog](https://buildersbox.corp-sansan.com/)
   - [新卒 iOS アプリエンジニアとして入社して感じた4つのこと](https://buildersbox.corp-sansan.com/entry/2020/08/13/110000)
   - [iOS アプリで様々なファイルをプレビューできる QLPreviewController の紹介](https://buildersbox.corp-sansan.com/entry/2020/12/04/110000)
   - [Sansan iOS アプリに XcodeGen を導入しました](https://buildersbox.corp-sansan.com/entry/2020/12/24/110000)
