@@ -22,7 +22,7 @@
   - GitHub Actions
   - Bitrise
   - fastlane
-- Bolt framework を用いた業務効率化の経験
+- Bolt framework(Slack Bot) を用いた業務効率化の経験
 
 ---
 
@@ -48,30 +48,34 @@
 #### 業務で普段から利用していた
 
 - VIPER
-- Quick/Nimble
 - RxSwift
+- Quick/Nimble
 - XcodeGen
 - iOS プロジェクトのマルチモジュール化
 - GitHub Actions
 - Bitrise
 - fastlane
-- Bolt
+- Bolt(Slack Bot)
 
 #### ドキュメント等を参照しながらであれば利用できる
 
 - SwiftUI
 - Combine
 - The Composable Architecture
+- MagicPod
+- Realm
+- Danger
 - Vim
 - Flutter 
 - GraphQL
-- MagicPod
 
 #### 習熟度は低いが利用したことはある
 
 - Ruby on Rails
 - Flask
 - Echo
+- MySQL
+- CoreData
 
 ---
 
@@ -82,7 +86,7 @@
 法人向け名刺管理サービス Sansan iOS アプリの開発・運用。
 
 - プロジェクト規模
-  - iOS・Android・Server・デザイナー各 2 名ほどで 1 プロジェクトを遂行
+  - 基本は iOS・Android・Server・デザイナー各 2 名ほどで 1 プロジェクトを遂行していた
     - GitHub のコードレビュー機能を用いて、Server チームと API 仕様のすり合わせを行っていた
     - デザイナーからは Figma でデザインが提供されていたため、Figma を通したコミュニケーションを行っていた
 - 役割
@@ -90,7 +94,7 @@
 - プロジェクト詳細 
   - iOS プロジェクトへの XcodeGen の導入
   - iOS プロジェクトのマルチモジュール化
-  - Bolt framework, GitHub Actions を用いたリリースプロセスの自動化
+  - Bolt framework(Slack Bot), GitHub Actions を用いたリリースプロセスの自動化
   - Google Calendar API を利用した Google Calendar 連携機能の開発
   - テスト工数を削減を目的とした Bitrise・fastlane を用いた MagicPod の導入
 
@@ -99,9 +103,9 @@
 ### 技術記事
 
 - [Qiita](https://qiita.com/kalupas226)
-  - Swift を中心とした記事を投稿している。総投稿数は 8
+  - iOS を中心とした記事を投稿している。総投稿数は 8
 - [Zenn](https://zenn.dev/kalupas226)
-  - Swift を中心として記事を投稿している。総投稿数は 17
+  - iOS を中心とした記事を投稿している。総投稿数は 17
 - [Sansan Builders Blog](https://buildersbox.corp-sansan.com/)
   - [新卒 iOS アプリエンジニアとして入社して感じた4つのこと](https://buildersbox.corp-sansan.com/entry/2020/08/13/110000)
   - [iOS アプリで様々なファイルをプレビューできる QLPreviewController の紹介](https://buildersbox.corp-sansan.com/entry/2020/12/04/110000)
