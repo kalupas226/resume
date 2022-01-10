@@ -1,4 +1,4 @@
-# { name } resume
+# Kenta Aikawa Resume
 
 ## Sample
 
