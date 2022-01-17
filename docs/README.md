@@ -22,6 +22,7 @@
   - GitHub Actions
   - Bitrise
   - fastlane
+  - MagicPod
 - Bolt framework(Slack Bot) を用いた業務効率化の経験
 
 ---
