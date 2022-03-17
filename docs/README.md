@@ -112,6 +112,7 @@
   - [iOS アプリで様々なファイルをプレビューできる QLPreviewController の紹介](https://buildersbox.corp-sansan.com/entry/2020/12/04/110000)
   - [Sansan iOS アプリに XcodeGen を導入しました](https://buildersbox.corp-sansan.com/entry/2020/12/24/110000)
   - [Sansan iOS アプリのマルチモジュール化推進方法](https://buildersbox.corp-sansan.com/entry/2021/12/23/110000)
+  - [Sansan iOS アプリにおけるリリース作業自動化の仕組みを作り直した話 ~ Bolt 編 ~](https://buildersbox.corp-sansan.com/entry/2022/03/02/110000)
 
 ### 登壇 
 - iOSDC
