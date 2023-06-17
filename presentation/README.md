@@ -33,6 +33,9 @@
 
 ## OSS 活動
 
+- [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture/commits?author=kalupas226)
+  - 日本語版 README の追加、細かいドキュメント修正、transitive dependencies の修正など
+
 ## その他
 
 - YouTube
