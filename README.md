@@ -66,7 +66,7 @@
 
 設計について考えることが好きで、わかりやすいコードを書くための勉強を日々続けています。  
 最近は The Composable Architecture (TCA) を用いた開発を得意としており、日々 TCA の情報をキャッチアップしつつ、自身が関わっている TCA を用いたプロジェクトでも色々な改善を行ったり、UIKit と SwiftUI が混ざったプロジェクトに対して TCA を導入するなどの活動も行っています。  
-また、開発基盤の整備も得意としており、XcodeGen + Framework / SwiftPM を用いたマルチモジュール化、SwiftPM のエコシステム (Executables, Package Plugins など) の利用・整備などを行ったり、CI / CD 周辺の整備もよく行っています。
+また、開発基盤の整備も得意としており、XcodeGen + Framework / SwiftPM を用いたマルチモジュール化、SwiftPM の Executables, Package Plugins などの利用・整備などを行ったり、CI / CD 周辺の整備もよく行っています。
 
 ---
 
