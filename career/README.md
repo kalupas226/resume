@@ -23,7 +23,7 @@
     - SwiftPM によるマルチモジュール・マルチプロジェクト
     - gRPC
     - Firebase Authentication, Firestore
-  - The Composable Architecture のキャッチアップ、アップデートに追従するための方法の提案
+  - The Composable Architecture のキャッチアップ、アップデートに追従するための方法・ベストプラクティスの提案
   - Swift Package Plugins の導入
   - CI / CD (GitHub Actions, Bitrise) の整備
     - 複数のプロダクトが含まれるモノリポにおいて差分から適切なプロジェクトのテストを実行する workflow の作成
