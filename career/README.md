@@ -26,8 +26,7 @@
   - The Composable Architecture のキャッチアップ、アップデートに追従するための方法・ベストプラクティスの提案
   - Swift Package Plugins の導入
   - CI / CD (GitHub Actions, Bitrise) の整備
-    - 複数のプロダクトが含まれるモノリポにおいて差分から適切なプロジェクトのテストを実行する workflow の作成
-      - 将来的には Xcode Cloud を利用することでよりシンプルにしたいと考えている
+    - 複数のプロダクトが含まれるモノリポにおいて diff から適切なプロジェクトのテストを実行する workflow の作成
     - Renovate で適切に更新されない依存関係を更新するための workflow の作成
   - iOS アプリおよび iPad アプリの機能開発、テストコードの整備
   - Remote Config による Feature Flag の導入
@@ -86,7 +85,9 @@
   - RxSwift → Combine・Swift Concurrency への置き換え
   - SwiftUI の導入
   - SwiftUI でアプリを快適に開発するための各種ライブラリの導入
-    - swiftui-navigation, swift-dependencies など
+    - swiftui-navigation
+    - swift-dependencies
+    - xctest-dynamic-overlay
   - Bitrise, fastlane が用いられている CI / CD の整備
 
 ## Sansan 株式会社（2020/04〜2022/04）
@@ -110,7 +111,7 @@
     - VIPER
     - RxSwift
   - iOS プロジェクトへの XcodeGen の導入
-  - iOS プロジェクトのマルチモジュール化
+  - iOS プロジェクトの Framework によるマルチモジュール化
   - Bolt framework(Slack Bot), GitHub Actions を用いたリリースプロセスの自動化
   - Google Calendar API を利用した Google Calendar 連携機能の開発
   - テスト工数を削減を目的とした MagicPod の導入

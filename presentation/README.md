@@ -24,12 +24,14 @@
 - Cookpad
   - [After Party iOSDC Japan 2022](https://cookpad.connpass.com/event/254459/)
 - 勉強会
+  - [Swift 愛好会](https://love-swift.connpass.com/)
+    - [(WWDC 要約) Build programmatic UI with Xcode Previews](https://speakerdeck.com/kalupas226/love-swift-build-programmatic-ui-with-xcode-previews)
   - [iOS アプリ開発のための Functional Architecture 情報共有会](https://connpass.com/event/230069/)
-    - 第 1 回： [redacted を TCA でスマートに扱う](https://speakerdeck.com/kalupas226/redacted-wo-tca-desumatonixi-u)
-    - 第 2 回： [Swift の struct・enum と代数学](https://speakerdeck.com/kalupas226/swiftfalsestructenumtodai-shu-xue-part1)
-    - 第 3 回： [Swift の関数と代数学（指数）](https://speakerdeck.com/kalupas226/swiftfalseguan-shu-todai-shu-xue)
-    - 第 4 回： [Composable Forms で TCA のボイラープレートとおさらばする](https://speakerdeck.com/kalupas226/composable-formsdetcafalseboirapuretotoosarabasuru)
-    - 第 5 回： [Refreashable API を TCA で使う](https://speakerdeck.com/kalupas226/refreshable-api-wo-tca-deshi-u)
+    - [redacted を TCA でスマートに扱う](https://speakerdeck.com/kalupas226/redacted-wo-tca-desumatonixi-u)
+    - [Swift の struct・enum と代数学](https://speakerdeck.com/kalupas226/swiftfalsestructenumtodai-shu-xue-part1)
+    - [Swift の関数と代数学（指数）](https://speakerdeck.com/kalupas226/swiftfalseguan-shu-todai-shu-xue)
+    - [Composable Forms で TCA のボイラープレートとおさらばする](https://speakerdeck.com/kalupas226/composable-formsdetcafalseboirapuretotoosarabasuru)
+    - [Refreashable API を TCA で使う](https://speakerdeck.com/kalupas226/refreshable-api-wo-tca-deshi-u)
 
 ## OSS 活動
 
