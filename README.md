@@ -28,6 +28,7 @@
     - 運用を効率化するためのツールの開発・運用
   - RxSwift / Combine などの Reactive Programming の実務経験があります
   - Swift Concurrency の実務経験があります
+  - Swift Package Plugins を利用して開発できます
   - The Composable Archtiecture を用いた開発が得意です
   - 少しだけ OSS コントリビュートも行っています
 - Ruby / Ruby on Rails

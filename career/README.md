@@ -31,7 +31,7 @@
   - iOS アプリおよび iPad アプリの機能開発、テストコードの整備
   - Remote Config による Feature Flag の導入
 
-## Cookpad 株式会社(2022/05〜現在)
+## Cookpad 株式会社(2022/05〜2023/08)
 
 ### 雇用形態
 
@@ -58,10 +58,11 @@
     - fastlane Spaceship や App Store Connect API を用いて APNs 証明書更新作業の自動化を行うための調査
     - ライブラリの整備
     - RxSwift → Swift Concurrency への一部置き換え
-    - The Composable Architecture の導入
+    - The Composable Architecture の導入作業
       - The Composable Architecture を社内に広める活動
       - UIKit + SwiftUI なプロジェクトで問題なく動作する形式の模索
       - 画面遷移の方法についても独自の実装方法を考案 (内部的には UIKit の仕組みを利用するが、SwiftUI ライクに遷移できる形)
+      - 退職に伴い、あと少しのところで導入完遂までは至ることができなかった
   - 採用系業務
 
 ## 株式会社 RAN(2022/03〜現在)
